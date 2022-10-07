@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,sBACE,YAAa,CACb,gBACF","file":"styles.ac0c96e6.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\ntextarea.src-textarea {\n  height: 300px;\n  min-height: 300px;\n}\n"]}
